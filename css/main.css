@@ -1,0 +1,19 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+#container {
+	height: 528px; /*may be 480*/
+	width: 320px;
+	border: 2px solid #000;
+	border-radius: 13px;
+}
+
+#cat {
+
+}
+
+
+
+
+
